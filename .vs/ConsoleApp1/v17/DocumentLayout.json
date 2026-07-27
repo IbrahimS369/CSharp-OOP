@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|d:\\path\\.net\\new folder\\consoleapp1\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|solutionrelative:line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|d:\\path\\.net\\new folder\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|d:\\path\\.net\\new folder\\consoleapp1\\3d point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|solutionrelative:3d point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|d:\\path\\.net\\new folder\\consoleapp1\\point2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|solutionrelative:point2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|d:\\path\\.net\\new folder\\consoleapp1\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|solutionrelative:fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|d:\\path\\.net\\new folder\\consoleapp1\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|solutionrelative:picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|d:\\path\\.net\\new folder\\consoleapp1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|d:\\path\\.net\\new folder\\consoleapp1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|d:\\path\\.net\\new folder\\consoleapp1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|d:\\path\\.net\\new folder\\consoleapp1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058660BC-35D7-4785-8B98-2EFCEB73F7B8}|ConsoleApp1.csproj|solutionrelative:square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:21:31.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3D Point.cs",
+              "DocumentMoniker": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\3D Point.cs",
+              "RelativeDocumentMoniker": "3D Point.cs",
+              "ToolTip": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\3D Point.cs",
+              "RelativeToolTip": "3D Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:22:14.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Line.cs",
+              "DocumentMoniker": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Line.cs",
+              "RelativeDocumentMoniker": "Line.cs",
+              "ToolTip": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Line.cs",
+              "RelativeToolTip": "Line.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:20:06.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point2d.cs",
+              "DocumentMoniker": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Point2d.cs",
+              "RelativeDocumentMoniker": "Point2d.cs",
+              "ToolTip": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Point2d.cs",
+              "RelativeToolTip": "Point2d.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:19:02.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fraction.cs",
+              "DocumentMoniker": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Fraction.cs",
+              "RelativeDocumentMoniker": "Fraction.cs",
+              "ToolTip": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Fraction.cs",
+              "RelativeToolTip": "Fraction.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwDcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T18:08:08.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Picture.cs",
+              "DocumentMoniker": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Picture.cs",
+              "RelativeDocumentMoniker": "Picture.cs",
+              "ToolTip": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Picture.cs",
+              "RelativeToolTip": "Picture.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T17:18:22.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:41:45.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:15:48.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "square.cs",
+              "DocumentMoniker": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\square.cs",
+              "RelativeDocumentMoniker": "square.cs",
+              "ToolTip": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\square.cs",
+              "RelativeToolTip": "square.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T16:29:24.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "rectangle.cs",
+              "DocumentMoniker": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\rectangle.cs",
+              "RelativeDocumentMoniker": "rectangle.cs",
+              "ToolTip": "D:\\Path\\.NET\\New folder\\ConsoleApp1\\rectangle.cs",
+              "RelativeToolTip": "rectangle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T16:22:45.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
